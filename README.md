@@ -1,2 +1,2 @@
-# BridgeLabzPrograms
+# LinuxShellScriptingProgs.
 Shell script basic programs
